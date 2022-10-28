@@ -1,5 +1,5 @@
 # GraftJ
-A program for grafting antibody donor CDR loops onto acceptor sequences
+A program for grafting antibody donor CDR loops onto acceptor sequences. Designed by Yilan Yu and programmed by Jordan Jantschulev.
 
 Inputs: 
  
